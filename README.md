@@ -100,6 +100,5 @@ five-seamless-tileable-ground-textures-57060
 * Texturas:
 - - https://assetstore.unity.com/packages/2d/textures-materials/water/foam-textures-72313
 ## Preview
-[Ver archivo en mp4](https://gitlab.com/Somo86/albertsomoza-pec4/-/blob/master/goday.mp4)
-
+[![Demo](https://www.freevector.com/uploads/vector/preview/10641/FreeVector-Four-Elements-Fighters.jpg)](https://youtu.be/G2DXm526x2E)
 
